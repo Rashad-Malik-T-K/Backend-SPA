@@ -79,7 +79,7 @@ nbformat==5.10.4
 nest-asyncio==1.6.0
 notebook==7.3.3
 notebook_shim==0.2.4
-numpy==1.26.2
+numpy==1.24.2
 opencage==3.0.4
 opencv-python==4.8.1.78
 overrides==7.7.0
@@ -104,7 +104,6 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytz==2024.2
-pywin32
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.3.0
